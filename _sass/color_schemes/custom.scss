@@ -1,0 +1,13 @@
+@import "./color_schemes/dark";
+
+$eyemaster-color: #fe352b;
+
+.site-header {
+    display: none !important;
+}
+
+.main-header {
+    display: none !important;
+}
+
+$link-color: $eyemaster-color;
