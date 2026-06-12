@@ -1,8 +1,8 @@
 title: Eyemaster
 description: Privacy policy and support contact for Eyemaster
 
-baseurl: ""
-url: "https://eyemaster.github.io"
+baseurl: "/eyemaster_info"
+url: "https://samyeule.github.io"
 github_username: samyeule
 
 theme: just-the-docs
