@@ -15,3 +15,4 @@ footer_content: "Copyright &copy; 2026 samyeule"
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor/
