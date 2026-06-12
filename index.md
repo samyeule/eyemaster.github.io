@@ -45,4 +45,4 @@ Users or server administrators may request information about stored data or requ
 Some moderation records may not be fully deletable if they are required to maintain server moderation integrity.
 
 ## Support
-For questions, data requests, or concerns, you may contact the the developer via [Support](https://eyemaster.github.io/Support).
+For questions, data requests, or concerns, you may contact the the developer via [Support](https://samyeule.github.io/eyemaster_info/support/).
